@@ -1,3 +1,4 @@
+
 What is Clone?
 
 A cloned website is a perfect duplicate of a site hosted on your server. It has the same files, and the contents of its database are identical to the original. 
